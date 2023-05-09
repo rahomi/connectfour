@@ -14,7 +14,7 @@ The first player to get four in a row wins.
 
 ## Credits
 
-This project was inspired by [this tutorial](https://www.youtube.com/shorts/S9OICr6Qxpc)) by DotNet.
+This project was inspired by [this tutorial](https://www.youtube.com/shorts/S9OICr6Qxpc) by DotNet.
 
 ## License
 
