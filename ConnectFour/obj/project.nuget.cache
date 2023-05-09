@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yoyDkXFKypyZzNcqmQBknFAq+voE7ZWczGWIeh1+WPh9UdtvGCzXyde5tBYZpfmMxld6y8NLGXdYhB/QBdFE6g==",
+  "dgSpecHash": "wvK7PDFVCviB5xFU8FzVfE0ysnTqD3i5YhEhXB9Bi/RE+QXAU2ObFSbj2D7UY1y5lv5QY4hocSpOqxOtxa+d+g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Asp DotNet\\ConnectFour\\ConnectFour.csproj",
+  "projectFilePath": "D:\\PracticeProjects\\connectfour\\ConnectFour\\ConnectFour.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.14\\microsoft.aspnetcore.authorization.6.0.14.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.14\\microsoft.aspnetcore.components.6.0.14.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.15\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.15.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.16\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
